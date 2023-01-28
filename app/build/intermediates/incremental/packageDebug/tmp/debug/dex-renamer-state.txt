@@ -1,0 +1,4 @@
+#Sat Jan 28 16:43:33 BDT 2023
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\Class-Attendance-App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

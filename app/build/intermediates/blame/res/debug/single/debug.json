@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color_3.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_color_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_person_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_check.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_person_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_theme_corner_rounded.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_theme_corner_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_clear_24px.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_clear_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_check.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asset_bg_palegreen.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-hdpi\\asset_bg_palegreen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_round_search_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_round_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_round_more_vert_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_check.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_app_bar.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\menu\\bottom_app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asset_bg_paleorange.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xhdpi\\asset_bg_paleorange.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_round_search_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_round_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white_back_top12dp.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-ldpi\\white_back_top12dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_plus.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_round_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_round_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color_4.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_color_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_report_detail_adapter_item.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\report_detail_adapter_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_asset_bg_palegreen.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xxhdpi\\asset_bg_palegreen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone_call.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asset_bg_paleorange.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-mdpi\\asset_bg_paleorange.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_call.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone_call.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_round_search_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_round_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_round_add_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_round_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone_call.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asset_bg_palegreen.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-mdpi\\asset_bg_palegreen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_round_search_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_round_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color_5.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_color_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_round_more_vert_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_round_arrow_back_24_dark.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_round_arrow_back_24_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_round_more_vert_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_round_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asset_bg_green.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-hdpi\\asset_bg_green.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asset_bg_yellow.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-hdpi\\asset_bg_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_clear_24px.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_clear_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_round_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_round_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_class_detail_.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\activity_class_detail_.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_back_white.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\button_back_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_person_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_round_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_round_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color_2.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_color_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_clear_24px.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_clear_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_asset_bg_yellow.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xxhdpi\\asset_bg_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asset_bg_white.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-mdpi\\asset_bg_white.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_round_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_round_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_round_more_vert_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asset_bg_white.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-hdpi\\asset_bg_white.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_class_adapter.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\class_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone_call.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\font_average_sans.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\font\\average_sans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_person_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_clear_24px.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_clear_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_round_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_round_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_round_search_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_round_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_clear_24px.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_clear_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone_call.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_back.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\button_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asset_bg_green.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-mdpi\\asset_bg_green.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_round_search_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_round_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_person_add_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_person_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_asset_bg_white.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xxhdpi\\asset_bg_white.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_detail_class_menu.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\menu\\detail_class_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reports.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reports__detail.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\activity_reports__detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asset_bg_green.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-ldpi\\asset_bg_green.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asset_bg_paleblue.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-mdpi\\asset_bg_paleblue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\menu_only_dot.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\menu\\only_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asset_bg_yellow.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-mdpi\\asset_bg_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_clear_24px.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_clear_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asset_bg_yellow.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-ldpi\\asset_bg_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_add_student.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\popup_add_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_round_more_vert_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asset_bg_white.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-ldpi\\asset_bg_white.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottomsheet_student_edit.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\bottomsheet_student_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_round_more_vert_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_reports_adapter_item.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\reports_adapter_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_asset_bg_green.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xxhdpi\\asset_bg_green.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asset_bg_yellow.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xhdpi\\asset_bg_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asset_bg_green.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xhdpi\\asset_bg_green.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_check.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color_1.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_color_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asset_bg_palegreen.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-ldpi\\asset_bg_palegreen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_round_more_vert_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asset_bg_white.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xhdpi\\asset_bg_white.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_asset_bg_paleorange.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xxhdpi\\asset_bg_paleorange.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_person_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asset_bg_paleblue.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xhdpi\\asset_bg_paleblue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone_call.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext_back.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\edittext_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_person_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asset_bg_paleblue.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-ldpi\\asset_bg_paleblue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_clear_24px.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_clear_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_plus.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_asset_bg_paleblue.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xxhdpi\\asset_bg_paleblue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito.ttf.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\font\\nunito.ttf"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asset_bg_palegreen.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-xhdpi\\asset_bg_palegreen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_theme_oval.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_theme_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asset_bg_paleblue.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-hdpi\\asset_bg_paleblue.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_theme.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asset_bg_paleorange.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-hdpi\\asset_bg_paleorange.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asset_bg_paleorange.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable-ldpi\\asset_bg_paleorange.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_insert_class_.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\activity_insert_class_.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_student_attendance_adapter.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\layout\\student_attendance_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_round_add_24.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_round_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_round_search_24.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_round_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkpng.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\checkpng.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_color_6.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\src\\main\\res\\drawable\\gradient_color_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Easy-Attendance-App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_round_arrow_back_24_dark.png"
+    }
+]

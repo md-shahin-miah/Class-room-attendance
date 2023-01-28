@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_asset_bg_green.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-ldpi/asset_bg_green.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_asset_bg_white.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xhdpi/asset_bg_white.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_white_back_top12dp.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-ldpi/white_back_top12dp.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_round_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_round_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_round_search_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_round_search_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_round_search_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_round_search_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_asset_bg_yellow.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-hdpi/asset_bg_yellow.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_asset_bg_white.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xxhdpi/asset_bg_white.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_asset_bg_paleblue.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-hdpi/asset_bg_paleblue.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_plus.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_asset_bg_paleorange.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xxhdpi/asset_bg_paleorange.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_round_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_round_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_round_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_round_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_asset_bg_palegreen.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xxhdpi/asset_bg_palegreen.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_round_more_vert_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_check.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_check.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_asset_bg_yellow.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xhdpi/asset_bg_yellow.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/font_average_sans.ttf.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/font/average_sans.ttf"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_check.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_check.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_asset_bg_palegreen.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-mdpi/asset_bg_palegreen.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_asset_bg_paleblue.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xhdpi/asset_bg_paleblue.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_baseline_person_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v21_ic_round_arrow_back_24_dark.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v21/ic_round_arrow_back_24_dark.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_asset_bg_palegreen.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xhdpi/asset_bg_palegreen.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_color_5.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_color_5.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_baseline_person_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_baseline_person_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_plus.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_theme_oval.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_theme_oval.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_round_search_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_round_search_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_asset_bg_green.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-hdpi/asset_bg_green.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_activity_reports.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/activity_reports.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_round_more_vert_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_theme.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_theme.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_phone_call.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_phone_call.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_asset_bg_yellow.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xxhdpi/asset_bg_yellow.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_asset_bg_palegreen.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-ldpi/asset_bg_palegreen.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_check.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_check.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_color_3.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_color_3.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_color_6.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_color_6.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_phone_call.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_phone_call.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_check.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_check.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_clear_24px.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_clear_24px.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_bottomsheet_student_edit.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/bottomsheet_student_edit.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_round_search_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_round_search_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_round_more_vert_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_baseline_person_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_clear_24px.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_clear_24px.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_asset_bg_yellow.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-mdpi/asset_bg_yellow.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_plus.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_plus.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_round_search_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_round_search_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v21_ic_round_search_24.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v21/ic_round_search_24.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_asset_bg_paleorange.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-mdpi/asset_bg_paleorange.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_phone_call.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_phone_call.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_round_search_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_round_search_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_report_detail_adapter_item.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/report_detail_adapter_item.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_clear_24px.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_clear_24px.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/menu_detail_class_menu.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/menu/detail_class_menu.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_phone_call.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_phone_call.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_check.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_check.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_color_1.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_color_1.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_baseline_person_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_plus.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_activity_reports__detail.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/activity_reports__detail.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v21_ic_round_more_vert_24.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v21/ic_round_more_vert_24.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v24_ic_check.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v24/ic_check.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v24_ic_plus.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v24/ic_plus.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_clear_24px.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_clear_24px.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_round_more_vert_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_asset_bg_paleblue.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-mdpi/asset_bg_paleblue.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_round_more_vert_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_asset_bg_white.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-hdpi/asset_bg_white.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxhdpi/ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_color_2.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_color_2.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_activity_insert_class_.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/activity_insert_class_.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_edittext_back.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/edittext_back.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_asset_bg_paleorange.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-ldpi/asset_bg_paleorange.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_clear_24px.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_clear_24px.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_asset_bg_paleorange.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-hdpi/asset_bg_paleorange.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_asset_bg_yellow.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-ldpi/asset_bg_yellow.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v21_ic_round_add_24.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v21/ic_round_add_24.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_phone_call.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_phone_call.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_phone_call.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_phone_call.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v21_ic_phone_call.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v21/ic_phone_call.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_checkpng.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/checkpng.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_asset_bg_green.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xxhdpi/asset_bg_green.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_student_attendance_adapter.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/student_attendance_adapter.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_round_more_vert_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_round_more_vert_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_asset_bg_paleblue.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-ldpi/asset_bg_paleblue.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_asset_bg_paleorange.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xhdpi/asset_bg_paleorange.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_asset_bg_green.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xhdpi/asset_bg_green.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_round_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_round_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_button_back.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/button_back.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_asset_bg_white.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-ldpi/asset_bg_white.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_asset_bg_green.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-mdpi/asset_bg_green.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_reports_adapter_item.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/reports_adapter_item.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/menu_only_dot.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/menu/only_dot.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_asset_bg_white.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-mdpi/asset_bg_white.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_asset_bg_palegreen.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-hdpi/asset_bg_palegreen.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v21_ic_clear_24px.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v21/ic_clear_24px.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxhdpi_asset_bg_paleblue.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable-xxhdpi/asset_bg_paleblue.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_color_4.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_color_4.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_button_back_white.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/button_back_white.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-ldpi_ic_round_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-ldpi/ic_round_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_baseline_person_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_baseline_person_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xxxhdpi_ic_clear_24px.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xxxhdpi/ic_clear_24px.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable_gradient_theme_corner_rounded.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/drawable/gradient_theme_corner_rounded.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/font_nunito.ttf.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/font/nunito.ttf"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_popup_add_student.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/popup_add_student.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_class_adapter.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/class_adapter.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/menu_bottom_app_bar.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/menu/bottom_app_bar.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-anydpi-v21_ic_baseline_person_add_24.xml.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-anydpi-v21/ic_baseline_person_add_24.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_round_arrow_back_24_dark.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_round_arrow_back_24_dark.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-mdpi_ic_check.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-mdpi/ic_check.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-xhdpi_ic_round_add_24.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-xhdpi/ic_round_add_24.png"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/layout_activity_class_detail_.xml.flat",
+        "source": "com.shahin.classroomattendance.app-main-35:/layout/activity_class_detail_.xml"
+    },
+    {
+        "merged": "com.shahin.classroomattendance.app-merged_res-33:/drawable-hdpi_ic_plus.png.flat",
+        "source": "com.shahin.classroomattendance.app-pngs-28:/drawable-hdpi/ic_plus.png"
+    }
+]

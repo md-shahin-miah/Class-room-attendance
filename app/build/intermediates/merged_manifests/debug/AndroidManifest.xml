@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shahin.notesapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="33" />
+
+    <permission
+        android:name="com.shahin.notesapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.shahin.notesapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Class Room Attendance"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.shahin.classroomattendance.Reports_Detail_Activity"
+            android:exported="true"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="com.shahin.classroomattendance.Reports_Activity"
+            android:exported="true" />
+        <activity
+            android:name="com.shahin.classroomattendance.ClassDetail_Activity"
+            android:exported="true"
+            android:theme="@style/FullScreenTheme" />
+        <activity
+            android:name="com.shahin.classroomattendance.Insert_class_Activity"
+            android:exported="true"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="com.shahin.classroomattendance.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.shahin.notesapplication.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,302 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [io.realm:realm-android-library:6.0.2] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\1675b547b4d02202311dc5ece1593829\transformed\jetified-realm-android-library-6.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4c1b93b392c5fae025d6aea81c4ad26c\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\735dbc1a69addec6d11285a2ce2e50e3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ceryle:RadioRealButton:v1.3] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\92896b08714fdc988bba6447670fdbb9\transformed\jetified-RadioRealButton-v1.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.yarolegovich:lovely-dialog:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\89302c7bfafcdf81e6c0e9deda1445c4\transformed\jetified-lovely-dialog-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\db7c922096ca7e35969ea4f64f9a6455\transformed\jetified-appcompat-resources-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8830a31d0dd2728f0186eac86577df1c\transformed\appcompat-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\2f764d31c341282aa6ffcaa356b33877\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-rc01] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\14ca94d1db12af17593f7e499f747b02\transformed\recyclerview-1.3.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\420060756fafd769a84acb310c360afa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.realm:android-adapters:1.4.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\368b31f24934a656e0ef0ded0e9bb099\transformed\jetified-android-adapters-1.4.0\AndroidManifest.xml:2:1-10:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\847d39c0069aa5485d89f9b1c6690148\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\25f2cbcbd5d037c8b5920d72c6122a3f\transformed\jetified-relinker-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f440165a54b57701c6465429b83952a9\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a081f929a0e6a90d7231bd5464eaf615\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f7daf7c98874e1f9429f37e3871afe44\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ade7a0989dbaaeac3ee1648ebf791984\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d9f1d5352e60727889926bd3a06e34be\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\20c224b1fca18898d44d9ee67691ce83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\6ecc4bf20db73c0c6c29ea52a3f140ad\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\62d234635f960c1132de8d46acbf1fe0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\95b25a41b46929d77cf58a9dfed9e2c5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\0247465c720c6f7417d75745fd494ff3\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8d0c6aac1d97c3c0a1fd8cb5c15e4d95\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f6cc364c56b2597ef44878b168a4d4f7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\df39b13c6aa6e9507ff70e0755a5bb9f\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f44b68e6437d48e74e21ad6d78b64d99\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\71f9b121361e5ca1ff4e1b7ca9ae1d95\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\3582b8005ad85128ddc69df466cf9066\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4fbb7c105063c4305ad2898834555f5c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\335df932a1a69c51d1305d63d70a11a5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\31c83a8517ed4aa1379cd6870b56e3f3\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\b451093b74a9e4d9de8d2f5fc0e6e482\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f743c9262c185a4fdd1db2055e8f2f07\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\65a31b60addf4442dec0a24b4442e48d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a95e9b4eadac8a78c549f3e6b3f5417e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ece667fd8f5f2cf5005e8a4877964fbe\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\b40a1012cf331d560852734b68542a7e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ede049eb77c5ded3ddc696588447533d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\0bdaffc0a9cf9314ff83bebb1d97d3f4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\82b39f33e35fc3b078f1753e589b6e04\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\bb816b98a53fdf0486f3cd8c4b4e4a2b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\c6c82e4e36730ed711961d26aedb3603\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8e6c655e696e9d66c5e814b41a13241f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:5:5-42:19
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4c1b93b392c5fae025d6aea81c4ad26c\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4c1b93b392c5fae025d6aea81c4ad26c\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\735dbc1a69addec6d11285a2ce2e50e3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\735dbc1a69addec6d11285a2ce2e50e3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\847d39c0069aa5485d89f9b1c6690148\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\847d39c0069aa5485d89f9b1c6690148\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f743c9262c185a4fdd1db2055e8f2f07\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f743c9262c185a4fdd1db2055e8f2f07\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a95e9b4eadac8a78c549f3e6b3f5417e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a95e9b4eadac8a78c549f3e6b3f5417e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:8:9-46
+	android:roundIcon
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.shahin.classroomattendance.Reports_Detail_Activity
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:12:9-16:15
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:15:13-36
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:13:13-82
+activity#com.shahin.classroomattendance.Reports_Activity
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:17:9-20:15
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:17:19-81
+activity#com.shahin.classroomattendance.ClassDetail_Activity
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:21:9-25:15
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:24:13-36
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:23:13-51
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:22:13-79
+activity#com.shahin.classroomattendance.Insert_class_Activity
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:26:9-31:15
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:27:13-80
+activity#com.shahin.classroomattendance.MainActivity
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:32:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:6.0.2] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\1675b547b4d02202311dc5ece1593829\transformed\jetified-realm-android-library-6.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:6.0.2] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\1675b547b4d02202311dc5ece1593829\transformed\jetified-realm-android-library-6.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4c1b93b392c5fae025d6aea81c4ad26c\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4c1b93b392c5fae025d6aea81c4ad26c\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\735dbc1a69addec6d11285a2ce2e50e3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\735dbc1a69addec6d11285a2ce2e50e3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ceryle:RadioRealButton:v1.3] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\92896b08714fdc988bba6447670fdbb9\transformed\jetified-RadioRealButton-v1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ceryle:RadioRealButton:v1.3] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\92896b08714fdc988bba6447670fdbb9\transformed\jetified-RadioRealButton-v1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\89302c7bfafcdf81e6c0e9deda1445c4\transformed\jetified-lovely-dialog-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\89302c7bfafcdf81e6c0e9deda1445c4\transformed\jetified-lovely-dialog-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\db7c922096ca7e35969ea4f64f9a6455\transformed\jetified-appcompat-resources-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\db7c922096ca7e35969ea4f64f9a6455\transformed\jetified-appcompat-resources-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8830a31d0dd2728f0186eac86577df1c\transformed\appcompat-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8830a31d0dd2728f0186eac86577df1c\transformed\appcompat-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\2f764d31c341282aa6ffcaa356b33877\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\2f764d31c341282aa6ffcaa356b33877\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-rc01] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\14ca94d1db12af17593f7e499f747b02\transformed\recyclerview-1.3.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0-rc01] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\14ca94d1db12af17593f7e499f747b02\transformed\recyclerview-1.3.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\420060756fafd769a84acb310c360afa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\420060756fafd769a84acb310c360afa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.realm:android-adapters:1.4.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\368b31f24934a656e0ef0ded0e9bb099\transformed\jetified-android-adapters-1.4.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:android-adapters:1.4.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\368b31f24934a656e0ef0ded0e9bb099\transformed\jetified-android-adapters-1.4.0\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\847d39c0069aa5485d89f9b1c6690148\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\847d39c0069aa5485d89f9b1c6690148\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\25f2cbcbd5d037c8b5920d72c6122a3f\transformed\jetified-relinker-1.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\25f2cbcbd5d037c8b5920d72c6122a3f\transformed\jetified-relinker-1.3.0\AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f440165a54b57701c6465429b83952a9\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f440165a54b57701c6465429b83952a9\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a081f929a0e6a90d7231bd5464eaf615\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a081f929a0e6a90d7231bd5464eaf615\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f7daf7c98874e1f9429f37e3871afe44\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f7daf7c98874e1f9429f37e3871afe44\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ade7a0989dbaaeac3ee1648ebf791984\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ade7a0989dbaaeac3ee1648ebf791984\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d9f1d5352e60727889926bd3a06e34be\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d9f1d5352e60727889926bd3a06e34be\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\20c224b1fca18898d44d9ee67691ce83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\20c224b1fca18898d44d9ee67691ce83\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\6ecc4bf20db73c0c6c29ea52a3f140ad\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\6ecc4bf20db73c0c6c29ea52a3f140ad\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\62d234635f960c1132de8d46acbf1fe0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\62d234635f960c1132de8d46acbf1fe0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\95b25a41b46929d77cf58a9dfed9e2c5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\95b25a41b46929d77cf58a9dfed9e2c5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\0247465c720c6f7417d75745fd494ff3\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\0247465c720c6f7417d75745fd494ff3\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8d0c6aac1d97c3c0a1fd8cb5c15e4d95\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8d0c6aac1d97c3c0a1fd8cb5c15e4d95\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f6cc364c56b2597ef44878b168a4d4f7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f6cc364c56b2597ef44878b168a4d4f7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\df39b13c6aa6e9507ff70e0755a5bb9f\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\df39b13c6aa6e9507ff70e0755a5bb9f\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f44b68e6437d48e74e21ad6d78b64d99\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f44b68e6437d48e74e21ad6d78b64d99\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\71f9b121361e5ca1ff4e1b7ca9ae1d95\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\71f9b121361e5ca1ff4e1b7ca9ae1d95\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\3582b8005ad85128ddc69df466cf9066\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\3582b8005ad85128ddc69df466cf9066\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4fbb7c105063c4305ad2898834555f5c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\4fbb7c105063c4305ad2898834555f5c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\335df932a1a69c51d1305d63d70a11a5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\335df932a1a69c51d1305d63d70a11a5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\31c83a8517ed4aa1379cd6870b56e3f3\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\31c83a8517ed4aa1379cd6870b56e3f3\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\b451093b74a9e4d9de8d2f5fc0e6e482\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\b451093b74a9e4d9de8d2f5fc0e6e482\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f743c9262c185a4fdd1db2055e8f2f07\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f743c9262c185a4fdd1db2055e8f2f07\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\65a31b60addf4442dec0a24b4442e48d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\65a31b60addf4442dec0a24b4442e48d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a95e9b4eadac8a78c549f3e6b3f5417e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\a95e9b4eadac8a78c549f3e6b3f5417e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ece667fd8f5f2cf5005e8a4877964fbe\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ece667fd8f5f2cf5005e8a4877964fbe\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\b40a1012cf331d560852734b68542a7e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\b40a1012cf331d560852734b68542a7e\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ede049eb77c5ded3ddc696588447533d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\ede049eb77c5ded3ddc696588447533d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\0bdaffc0a9cf9314ff83bebb1d97d3f4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\0bdaffc0a9cf9314ff83bebb1d97d3f4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\82b39f33e35fc3b078f1753e589b6e04\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\82b39f33e35fc3b078f1753e589b6e04\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\bb816b98a53fdf0486f3cd8c4b4e4a2b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\bb816b98a53fdf0486f3cd8c4b4e4a2b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\c6c82e4e36730ed711961d26aedb3603\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\c6c82e4e36730ed711961d26aedb3603\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8e6c655e696e9d66c5e814b41a13241f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8e6c655e696e9d66c5e814b41a13241f\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\Class-Attendance-App\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f743c9262c185a4fdd1db2055e8f2f07\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\f743c9262c185a4fdd1db2055e8f2f07\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\8939faa0dbb944e7d56e4855decd3f1f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.shahin.notesapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.shahin.notesapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\d83e59f35001b5d0cf017e8b18c49c1e\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\AndroidStudioProjects\BusBookingUI-AndroidS\caches\transforms-3\733d170583fe57fe39b47fb0ffb706fa\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
